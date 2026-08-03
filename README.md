@@ -7,14 +7,19 @@
 </p>
 
 # Hey There! 👋
+
+<p align="center">
+  <img src="ChatGPT Image Aug 1, 2026, 10_33_30 AM.png" width="150" height="150" style="border-radius:50%;" alt="Sanjay P"/>
+</p>
+
 **I'm Sanjay P** — Java developer, problem-solver, and system builder.
 I build reliable software, learn fast, and ship things that work in the real world.
 
+
+
 Check out my links: [LinkedIn](https://linkedin.com/in/sanjay-p-151849336) | [GitHub](https://github.com/Sanjay105688) | [Email](mailto:sanjaypalanisamy774@gmail.com)
 
-<p align="center">
-  <img src="profile-photo.jpg" width="150" height="150" style="border-radius:50%;" alt="Sanjay P"/>
-</p>
+
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,python,cpp,html,css,js,mysql,git,github,aws,vscode,linux" />
