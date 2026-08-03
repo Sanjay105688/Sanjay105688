@@ -60,10 +60,15 @@ Check out my links: [LinkedIn](https://linkedin.com/in/sanjay-p-151849336) | [Gi
 
 > **Learning fast, building reliably, and growing one project at a time.**
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=700&color=27AE60&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile!;Have+a+great+day+%E2%9C%A8;Let's+build+something+great+together!" alt="Thank you Typing SVG" />
-</p>
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+</p>
+
+
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=700&color=27AE60&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile!;Have+a+great+day+%E2%9C%A8;Let's+build+something+great+together!" alt="Thank you Typing SVG" />
 </p>
