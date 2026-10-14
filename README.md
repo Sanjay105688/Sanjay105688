@@ -17,7 +17,7 @@
 
 I build reliable software, learn fast, and ship things that work in the real world.
 
-Check out my links: [LinkedIn](https://linkedin.com/in/sanjay-p-151849336) | [GitHub](https://github.com/Sanjay105688) | [Email](mailto:sanjaypalanisamy774@gmail.com)
+Check out my links: [LinkedIn](https://linkedin.com/in/sanjay-p-151849336) | [GitHub](https://github.com/Sanjay105688) | [Email](mailto:sanjaypalanisamy774@gmail.com) | [Leetcode](https://leetcode.com/u/QLAR3mwAlv/)
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,python,cpp,html,css,js,mysql,git,github,aws,vscode,linux" alt="Technical Skills"/>
@@ -48,7 +48,7 @@ Check out my links: [LinkedIn](https://linkedin.com/in/sanjay-p-151849336) | [Gi
 
 ### 💼 Projects
 
-- **AI Cloud-Based Virtual Brain Connectivity** — Cloud-hosted system that models and visualizes brain connectivity, enabling analysis of neural patterns through a scalable, accessible web-based interface.
+- **AI Cloud-Based Virtual Brain Connectivity** — Engineered a cloud-integrated Brain-Computer Interface (BCI) system using EEG sensors, Arduino Uno, and ESP8266 IoT module, with signal conditioning circuits to classify and display real-time brain status(Normal/Abnormal) on a TFT touchscreen. Enabled automated SMS/Email alerts for critical status changes,with applications in autism care monitoring and forensic verification of brain activity.
 
 - **DevPilot – Full-Stack Online IDE & Code Analysis Engine** — Developed an online code editor supporting real-time execution across multiple programming languages and instant visual previews of web pages, removing the need for local setup. Implemented automated error detection and AI-assisted debugging with streamed responses, helping users identify and fix code issues in seconds.
 
