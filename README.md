@@ -1,4 +1,4 @@
-```html
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sanjay%20P&fontSize=45&fontColor=ffffff&animation=fadeIn" alt="Sanjay P Banner" width="100%" />
 </p>
@@ -10,12 +10,12 @@
 # Hey There! 👋
 
 <p align="center">
-  <img src="ChatGPT Image Aug 1, 2026, 10_33_30 AM.png" width="150" height="150" alt="Sanjay P"/>
+  <img src="ChatGPT Image Aug 1, 2026, 10_33_30 AM.png" width="150" height="150" style="border-radius:50%;" alt="Sanjay P"/>
 </p>
 
 **I'm Sanjay P** — Java developer, problem-solver, and system builder.
 
-I build reliable software, learn fast, and develop practical solutions using programming and modern technologies.
+I build reliable software, learn fast, and ship things that work in the real world.
 
 Check out my links: [LinkedIn](https://linkedin.com/in/sanjay-p-151849336) | [GitHub](https://github.com/Sanjay105688) | [Email](mailto:sanjaypalanisamy774@gmail.com)
 
@@ -25,13 +25,13 @@ Check out my links: [LinkedIn](https://linkedin.com/in/sanjay-p-151849336) | [Gi
 
 ### 📍 Points
 
-- 🎓 B.E. in Electronics and Communication Engineering @ V.S.B. Engineering College, Karur (2023–2027)
-- 💻 Strong foundation in Java, Python, C++, and web fundamentals (HTML, CSS, JavaScript)
+- 🎓 B.E in Electronics and Communication Engineering @ V.S.B. Engineering College, Karur (2023–2027)
+- 💻 Strong foundation in Java, Python, C++ and web fundamentals (HTML/CSS/JS)
 - ☁️ AWS Cloud Practitioner Essentials certified
-- 🌐 Developed an AI Cloud-Based Virtual Brain Connectivity system
+- 🌐 Built an AI-powered virtual brain connectivity visualization system
 - 🚀 Built DevPilot, a full-stack online IDE with AI-powered code analysis and debugging
 - 🔌 Explored IoT fundamentals through Cisco Networking Academy
-- 🌱 Continuously improving my OOP concepts, problem-solving skills, and full-stack development knowledge
+- 🌱 Actively growing in OOPs concepts and full-stack web development
 
 <details>
   <summary>GitHub Stats ⚡</summary>
@@ -48,30 +48,13 @@ Check out my links: [LinkedIn](https://linkedin.com/in/sanjay-p-151849336) | [Gi
 
 ### 💼 Projects
 
-#### 🧠 AI Cloud-Based Virtual Brain Connectivity
+- **AI Cloud-Based Virtual Brain Connectivity** — Cloud-hosted system that models and visualizes brain connectivity, enabling analysis of neural patterns through a scalable, accessible web-based interface.
 
-A cloud-hosted system designed to visualize brain connectivity and explore neural activity patterns through a web-based interface.
+- **DevPilot – Full-Stack Online IDE & Code Analysis Engine** — Developed an online code editor supporting real-time execution across multiple programming languages and instant visual previews of web pages, removing the need for local setup. Implemented automated error detection and AI-assisted debugging with streamed responses, helping users identify and fix code issues in seconds.
 
-- Integrated brain-signal sensing, embedded hardware, and wireless communication concepts.
-- Worked on connecting hardware components and supporting web-based visualization.
-- Focused on representing brain activity patterns through an accessible virtual interface.
-
-#### 🚀 DevPilot – Full-Stack Online IDE & Code Analysis Engine
-
-An AI-powered online coding platform that enables developers to write, execute, analyze, debug, explain, and optimize code in one place.
-
-- Developed an online code editor supporting real-time execution across multiple programming languages and instant visual previews of web pages, eliminating the need for local setup.
-- Implemented automated error analysis and AI-assisted debugging with streamed responses, helping users identify and fix code issues.
-- Integrated the Monaco Editor for a powerful browser-based coding experience.
-- Used the Piston API to execute code and display program output and errors.
-- Integrated the Groq API to provide AI-powered code analysis, debugging, explanations, and optimization suggestions.
-- Built the frontend using React and TypeScript and the backend using Python and FastAPI.
-
-**Tech Stack:** React, TypeScript, HTML, CSS, Python, FastAPI, Monaco Editor, Piston API, Groq API
-
-🔗 **GitHub Repository:** [DevPilot](https://github.com/Sanjay105688/DevPilot)
-
-🌐 **Live Demo:** [Try DevPilot](https://devpilot-al4s.onrender.com/)
+  - **Tech Stack:** React, TypeScript, HTML, CSS, Python, FastAPI, Monaco Editor, Piston API, Groq API.
+  - **GitHub:** [DevPilot Repository](https://github.com/Sanjay105688/DevPilot)
+  - **Live Demo:** [Try DevPilot](https://devpilot-al4s.onrender.com/)
 
 ### 📜 Certifications
 
@@ -84,7 +67,7 @@ An AI-powered online coding platform that enables developers to write, execute, 
 > **Learning fast, building reliably, and growing one project at a time.**
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" alt="Footer Banner" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" alt="Footer Banner"/>
 </p>
 
 <p align="center">
